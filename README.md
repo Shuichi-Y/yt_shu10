@@ -1,2 +1,4 @@
 # yt_shu10
-yt_shuichi09の点灯部分
+yt_shuichi09の点灯部分のプログラム
+Excelで点灯用文字を作成
+文字が右→左にスクロール用Text出力
